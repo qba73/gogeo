@@ -1,2 +1,2 @@
 # gogeo
-Go library for GeoServer REST API
+Go client for the GeoServer REST API
